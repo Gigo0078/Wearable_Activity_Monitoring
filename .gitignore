@@ -1,2 +1,3 @@
 # ignore all data files
 data/
+*.pkl
