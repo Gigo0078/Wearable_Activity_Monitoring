@@ -3,3 +3,4 @@ data/
 *.pkl
 activitylabelcreation_data.pkl
 train_data.pkl
+doruks_data/
